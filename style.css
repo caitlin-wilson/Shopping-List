@@ -1,0 +1,14 @@
+li, button {
+	cursor: pointer;
+}
+
+ul {
+	list-style: none;
+}
+
+.done  {
+  text-decoration: line-through;
+}
+
+.none {
+	text-decoration: none;
